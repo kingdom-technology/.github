@@ -4,6 +4,12 @@
 
 ---
 
+### Services
+See our current Service Menu:
+https://github.com/kingdom-technology/services
+
+---
+
 ## Who We Are
 
 **Kingdom Tech** is a mission-driven platform engineering company focused on building **secure, automated, audit-ready cloud platforms** for organizations operating in regulated or high-assurance environments.
