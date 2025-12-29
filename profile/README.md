@@ -19,7 +19,7 @@ We design systems that meet the standards of:
 - **FedRAMP High**
 - **DoD IL4/IL5/IL6**
 - **NIST 800-53**
-- **Zero Trust Architectures**
+- **Nero Zero Trust Architectures**
 - **Modern DevSecOps frameworks**
 - **Supply-Chain Security / SLSA**
 
